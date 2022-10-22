@@ -1,0 +1,38 @@
+body {
+    margin: 52px;
+    background-color: #1F2937;
+    
+}
+.main{
+    border-bottom:1px solid #2F3E53
+}
+.sub{
+    margin-top: 44px;
+    display: flex
+}
+.input-el{
+    margin: auto;
+    background-color:#273549;
+    border-radius: 5px;
+    color: white;
+}
+#generate{
+    color: #FFFFFF;
+    margin-top: 50px;
+}
+#random{
+    margin-top: -20px;
+    color: #4ADF86;
+}
+#paragraph{
+    margin-top: -10px;
+    color: white;
+}
+#btn{
+    margin-top: 20px;
+    margin-bottom: 44px;
+    background-color: #10B981;
+    color: #FFFFFF;
+    padding: 9px 17px 9px 15px;
+    border-radius: 5px;
+}
